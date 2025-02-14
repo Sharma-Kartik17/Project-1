@@ -15,7 +15,7 @@ os.makedirs('applications', exist_ok=True)
 
 # Load job listings from CSV
 def load_job_listings():
-    df = pd.read_csv('./job_listings.csv')  # Adjust the path to your git add .
+    df = pd.read_csv('./job_listings.csv')  # Adjust the path to your git add git add git add .
     return df
 
 # Fetch internships
